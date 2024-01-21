@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: McKay Clark's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# McKay Clark
+Something inspirational here
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
